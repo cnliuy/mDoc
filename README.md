@@ -3,10 +3,6 @@
 
 
 
-http://nathanj.github.io/gitguide/tour.html
-  An Illustrated Guide to Git on Windows 
-  介绍 Git Gui使用的文档
-	
 
 -----------------------
 
@@ -23,4 +19,20 @@ Git Gui创建远程上传GitHub方法
 
   5.在remote中，看到相应 yourprojectname 的选项 ，想与github同步，点 remote--->上传 即可.
 
+------------------------
 
+
+http://nathanj.github.io/gitguide/tour.html
+  An Illustrated Guide to Git on Windows 
+  介绍 Git Gui使用的文档
+
+http://blog.csdn.net/yaoyuan_difang/article/details/17353043
+  使用Git、Git GUI和TortoiseGit
+	
+http://www.jb51.net/article/55438.htm
+  “进入GitHub网站 : 登录GitHub, 选择Account Setting 用户设置” 这里可参考下
+
+
+
+
+--EOF--
